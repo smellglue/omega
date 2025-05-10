@@ -1,5 +1,5 @@
 # 🚀 Omega Client
-![Our Site](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Roblox](https://img.shields.io/badge/platform-Roblox-red.svg)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
@@ -19,4 +19,6 @@ Omega is an external Roblox executor that combines features. Built with performa
 - .NET Framework / Visual C++ (if required)
 
 ## 🛠️ Installation
-- ![Visit our website](https://omegaclient.netlify.app/) or ![GH release](https://github.com/smellglue/omega/releases/download/omega/OmegaClient.exe)
+- [Visit our website](https://omegaclient.netlify.app/) or [GH release](https://github.com/smellglue/omega/releases/download/omega/OmegaClient.exe)
+
+gl everyone!
