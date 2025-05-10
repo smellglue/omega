@@ -10,7 +10,7 @@ Omega is an external Roblox executor that combines features. Built with performa
 - ✅ Without crashes and lags
 - ✅ Has comfortable "lua scripts" list
 - ✅ Clean and modern UI
-- ✅ Bypass AV
+- ✅ Bypass Roblox AC
 - ✅ LUA Injector support
 
 ## 💻 Requirements
